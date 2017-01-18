@@ -10,7 +10,7 @@
     <div id="map"></div>
     <script type="text/javascript">
 var map;
-function initMap() {//tekos
+function initMap() {//
   map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: -7.9826, lng: 112.6309},
     zoom: 20
